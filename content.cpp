@@ -24,6 +24,5 @@ int main() {
         cout << "cqfxm";
         cout << "eebjs";
         cout << "uqvui";
-        cout << "uvnnw";
 return 0;
 }
