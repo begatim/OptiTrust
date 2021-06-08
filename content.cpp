@@ -37,6 +37,5 @@ int main() {
         cout << "tbwfa";
         cout << "thrsu";
         cout << "gpplv";
-        cout << "doqiu";
 return 0;
 }
