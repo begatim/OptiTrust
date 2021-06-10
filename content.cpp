@@ -35,6 +35,5 @@ int main() {
         cout << "lwdcd";
         cout << "tyctw";
         cout << "tbwfa";
-        cout << "thrsu";
 return 0;
 }
