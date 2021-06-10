@@ -36,6 +36,5 @@ int main() {
         cout << "tyctw";
         cout << "tbwfa";
         cout << "thrsu";
-        cout << "apbkj";
 return 0;
 }
