@@ -36,6 +36,6 @@ int main() {
         cout << "tyctw";
         cout << "yldpk";
         cout << "rqgjj";
-        cout << "rqnue";
+        cout << "wexng";
 return 0;
 }
