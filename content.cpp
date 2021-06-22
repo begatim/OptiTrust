@@ -37,6 +37,5 @@ int main() {
         cout << "yldpk";
         cout << "rqgjj";
         cout << "dforg";
-        cout << "iwcqa";
 return 0;
 }
