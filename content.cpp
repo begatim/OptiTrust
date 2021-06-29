@@ -36,6 +36,5 @@ int main() {
         cout << "tyctw";
         cout << "jvdib";
         cout << "chlww";
-        cout << "unsit";
 return 0;
 }
