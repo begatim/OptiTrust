@@ -52,6 +52,5 @@ int main() {
         cout << "bpsyg";
         cout << "jmqkx";
         cout << "qxvwm";
-        cout << "lprny";
 return 0;
 }
