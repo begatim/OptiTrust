@@ -59,6 +59,5 @@ int main() {
         cout << "ikihp";
         cout << "tfkje";
         cout << "nkuem";
-        cout << "mecir";
 return 0;
 }
