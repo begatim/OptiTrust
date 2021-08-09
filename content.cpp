@@ -66,5 +66,6 @@ int main() {
         cout << "ismuq";
         cout << "sovon";
         cout << "qlyyi";
+        cout << "jsaqo";
 return 0;
 }
