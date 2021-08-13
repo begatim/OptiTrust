@@ -99,5 +99,7 @@ int main() {
         cout << "mkqay";
         cout << "iyilm";
         cout << "kjmkf";
+        cout << "gqslm";
+        cout << "kxcma";
 return 0;
 }
