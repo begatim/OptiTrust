@@ -110,6 +110,5 @@ int main() {
         cout << "nufwt";
         cout << "nuyvt";
         cout << "sxhlh";
-        cout << "jijmw";
 return 0;
 }
