@@ -119,6 +119,5 @@ int main() {
         cout << "nivxt";
         cout << "edava";
         cout << "raxsg";
-        cout << "weeir";
 return 0;
 }
