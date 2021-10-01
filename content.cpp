@@ -119,5 +119,6 @@ int main() {
         cout << "nivxt";
         cout << "edava";
         cout << "grmrl";
+        cout << "elats";
 return 0;
 }
