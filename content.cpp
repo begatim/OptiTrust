@@ -136,5 +136,6 @@ int main() {
         cout << "kwnab";
         cout << "srlkc";
         cout << "wrrem";
+        cout << "okyna";
 return 0;
 }
