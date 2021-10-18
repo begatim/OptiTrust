@@ -139,6 +139,6 @@ int main() {
         cout << "okyna";
         cout << "mmiuo";
         cout << "dtfnk";
-        cout << "tpeka";
+        cout << "mdohs";
 return 0;
 }
