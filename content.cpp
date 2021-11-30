@@ -166,6 +166,5 @@ int main() {
         cout << "ntgjj";
         cout << "wajca";
         cout << "yeyhe";
-        cout << "wloiu";
 return 0;
 }
