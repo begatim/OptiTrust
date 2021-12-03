@@ -168,6 +168,5 @@ int main() {
         cout << "yeyhe";
         cout << "vnsdn";
         cout << "rurvy";
-        cout << "ojlng";
 return 0;
 }
