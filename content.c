@@ -2,5 +2,6 @@
 
 int main() {
         printf("csymg");
+        printf("mwnof");
 return 0;
 }
