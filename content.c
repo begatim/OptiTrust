@@ -2,6 +2,6 @@
 
 int main() {
         printf("csymg");
-        printf("kcupp");
+        printf("xrssq");
 return 0;
 }
