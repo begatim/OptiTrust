@@ -2,6 +2,6 @@
 
 int main() {
         printf("csymg");
-        printf("tngin");
+        printf("wowoa");
 return 0;
 }
