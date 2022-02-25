@@ -2,6 +2,5 @@
 
 int main() {
         printf("csymg");
-        printf("dfcxd");
 return 0;
 }
