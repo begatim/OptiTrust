@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("csymg");
+        printf("oqdct");
 return 0;
 }
