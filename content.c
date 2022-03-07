@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("oqdct");
+        printf("hmqun");
 return 0;
 }
