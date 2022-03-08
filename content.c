@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("hmqun");
+        printf("gmein");
 return 0;
 }
