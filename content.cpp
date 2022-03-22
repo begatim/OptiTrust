@@ -194,6 +194,5 @@ int main() {
         cout << "uiias";
         cout << "ktgvv";
         cout << "tpbtb";
-        cout << "eymkr";
 return 0;
 }
