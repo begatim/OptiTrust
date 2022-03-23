@@ -2,7 +2,6 @@
 
 int main() {
         printf("jsjsv");
-        printf("ariqp");
-        printf("srqhj");
+        printf("qkhla");
 return 0;
 }
