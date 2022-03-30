@@ -6,6 +6,6 @@ int main() {
         printf("utdon");
         printf("ugacg");
         printf("jaxnw");
-        printf("lxkui");
+        printf("bsimj");
 return 0;
 }
