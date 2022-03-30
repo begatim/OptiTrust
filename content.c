@@ -7,6 +7,5 @@ int main() {
         printf("ugacg");
         printf("jaxnw");
         printf("lxkui");
-        printf("uhnsw");
 return 0;
 }
