@@ -203,6 +203,5 @@ int main() {
         cout << "iaing";
         cout << "sbrij";
         cout << "jfyxf";
-        cout << "djteq";
 return 0;
 }
