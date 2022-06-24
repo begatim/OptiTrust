@@ -220,6 +220,5 @@ int main() {
         cout << "dnybl";
         cout << "thlfa";
         cout << "xnhlw";
-        cout << "iujog";
 return 0;
 }
